@@ -1,0 +1,6 @@
+myNeuralNetworkFunction.obj
+myNeuralNetworkFunction_data.obj
+myNeuralNetworkFunction_emxAPI.obj
+myNeuralNetworkFunction_emxutil.obj
+myNeuralNetworkFunction_initialize.obj
+myNeuralNetworkFunction_terminate.obj
